@@ -1,0 +1,6 @@
+control_id,business_area,assessment_text,finding_type,date
+CTL-001,Payments,Access controls not reviewed quarterly leading to unauthorised access risk,Policy Breach,2024-01-15
+CTL-002,Credit Risk,Reconciliation process lacks documented approval workflow,Process Gap,2024-01-18
+CTL-003,Operations,System timeout not configured causing data integrity issues,System Failure,2024-01-20
+CTL-004,Compliance,Staff training records outdated by more than 6 months,People Risk,2024-02-01
+CTL-005,Payments,Transaction monitoring thresholds not aligned to current policy,Policy Breach,2024-02-05

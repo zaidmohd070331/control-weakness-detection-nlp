@@ -1,5 +1,3 @@
-# control-weakness-detection-nlp
-NLP pipeline to detect &amp; prioritise internal control weaknesses from audit logs | spaCy · Scikit-learn · Power BI
 # 🔍 Internal Control Weakness Detection using NLP & ML
 
 > Automated identification and severity prioritisation of internal control weaknesses from audit logs and control assessment text — directly replicating the mandate of a Chief Controls Office (CCO) analytics function.
